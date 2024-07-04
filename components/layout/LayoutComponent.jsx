@@ -4,13 +4,13 @@ import FooterComponent from './FooterComponent';
 
 const LayoutComponent = (props) => {/*Recibe al hijo */
     const { children } = props;
-return (
+    return (
         <div>
             <HeaderComponent />
             {children}
             <FooterComponent />
         </div>
-  )
+    )
 }
 
 export default LayoutComponent

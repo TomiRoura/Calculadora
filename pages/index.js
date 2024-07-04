@@ -6,9 +6,9 @@ import LayoutComponent from '../components/layout/LayoutComponent'
 export const Home = () => {
   return (
     <LayoutComponent>
-    <div className={styles.container}>
+      <div className={styles.container}>
         <Index_component />
-    </div>
+      </div>
     </LayoutComponent>
   )
 }

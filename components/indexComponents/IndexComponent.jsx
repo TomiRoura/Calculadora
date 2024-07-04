@@ -18,8 +18,8 @@ const CreateIndex = () => {
   )
 }
 const CreatCalculator = () => {
-  const [handleOperation,nextValue] = ChangeValueCalculator();
-console.log(nextValue);
+  const [handleOperation, nextValue] = ChangeValueCalculator();
+  console.log(nextValue);
   return (
     <div className={Calculator.calculator}>
       <div className={Calculator.content}>
