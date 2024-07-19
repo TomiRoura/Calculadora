@@ -5,5 +5,5 @@ Una vez instalado, realizamos lo siguiente:
 3) Escribimos npm install (actualizar repositorios o descargar dependencias)
 4) Ponemos npm run dev
 5) Damos click en el enlace localhost
-
+6
 ![Preview](demo.gif)
